@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a Data Science and Machine Learning student passionate
 
 - 🎓 Currently studying Data Science at EPFL
 
-- 💡 Passionate about tech-driven education, making learning more accessible and engaging for everyone.
+- 💡 Passionate about making learning more accessible and engaging for everyone.
 
 - 🌱 Always learning and exploring how AI can improve Education.
 

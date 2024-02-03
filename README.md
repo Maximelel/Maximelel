@@ -33,13 +33,12 @@ Welcome to my GitHub! I'm a Data Science and Machine Learning student passionate
 
 Check out some of my projects applied to Education:
 
-- [Semi-Supervised Learning Approaches in Educational Contexts](https://github.com/Maximelel/SP_in_ML4ED): Brief description.
-- [Exploring Learning Profiles: Time Series Clustering Guided vs. Free Training](https://github.com/ML4BD/final-submission-bd4ed?tab=readme-ov-file): Brief description.
+- [Semi-Supervised Learning Approaches in Educational Contexts](https://github.com/Maximelel/SP_in_ML4ED)
+- [Exploring Learning Profiles: Time Series Clustering Guided vs. Free Training](https://github.com/ML4BD/final-submission-bd4ed?tab=readme-ov-file) 
 
 And some other cool projects:
-- project ADA
-- project in Finance
-- Project in DL4NLP
+- [Crafting a NLP-Augmented beer rating system](https://github.com/Maximelel/NLP_for_beers) with a cool [website](https://epfl-ada.github.io/ada-2023-project-laremontada61/)
+- [Implementation and comparison of ML methods for log-returns forecasting](https://github.com/Maximelel/ML4Finance)
 
 ## 📫 Let's Connect!
 

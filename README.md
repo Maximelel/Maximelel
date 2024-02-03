@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a Data Science and Machine Learning student passionate
 
 ## 🛠️ Tech Stack
 
-- 🐍 Python | 🤖 ML | 📈 Data Analysis | 🗣️ NLP
+- 🤖 ML | 📈 Data Analysis | 🗣️ NLP
 
 
 ### Languages and Tools:

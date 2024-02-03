@@ -1,16 +1,32 @@
-### Hi there 👋
+# 👋 Hi, I'm Maxime!
 
-<!--
-**Maximelel/Maximelel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a Data Science and Machine Learning student passionate about using AI to improve education.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently studying Data Science at EPFL
+
+- 💡 Passionate about tech-driven education, making learning more accessible and engaging.
+
+- 🌱 Always learning and exploring data science's impact on education.
+
+## 🛠️ Tech Stack
+
+- 🐍 Python | 📊 Data Viz | 🤖 ML | 📈 Data Analysis | 🗣️ NLP
+
+## 🌐 Projects
+
+Check out some projects where I've applied data science to solve real-world problems.
+
+- [Semi-Supervised Learning Approaches in Educational Contexts](https://github.com/Maximelel/SP_in_ML4ED): Brief description.
+- [Exploring Learning Profiles: Time Series Clustering Guided vs. Free Training](https://github.com/ML4BD/final-submission-bd4ed?tab=readme-ov-file): Brief description.
+
+## 🌟 Seeking EdTech Internship
+
+Actively seeking EdTech internship opportunities to apply my data science skills to meaningful projects.
+
+## 📫 Let's Connect!
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/maxime-leli%C3%A8vre-9667b61b9/)
+- 📧 Email: maxime.lelievre@epfl.ch
+

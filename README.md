@@ -34,6 +34,7 @@ Welcome to my GitHub! I'm a Data Science and Machine Learning student passionate
 
 Check out some of my projects applied to Education:
 
+- [Comparing the creative outputs of LLMs on the Alternative Uses Task (AUT)](https://github.com/Maximelel/LLM_creativity_aut)
 - [Semi-Supervised Learning Approaches in Educational Contexts](https://github.com/Maximelel/SP_in_ML4ED)
 - [Exploring Learning Profiles: Time Series Clustering Guided vs. Free Training](https://github.com/ML4BD/final-submission-bd4ed?tab=readme-ov-file) 
 

@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a Data Science and Machine Learning student passionate
 
 ## 🚀 About Me
 
-- 🎓 Currently studying Data Science at EPFL
+- 🎓 Currently a Data science intern at Fab Inc
 
 - 💡 Passionate about making learning more accessible and engaging for everyone.
 

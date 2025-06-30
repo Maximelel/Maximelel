@@ -6,10 +6,6 @@ Welcome to my GitHub! I'm a Data Science and Machine Learning student passionate
 
 - 🎓 Currently a Data science intern at Fab Inc
 
-- 💡 Passionate about making learning more accessible and engaging for everyone.
-
-- 🌱 Always learning and exploring how AI can improve Education.
-
 ## 🛠️ Tech Stack
 
 - 🤖 ML | 📈 Data Analysis | 🗣️ NLP

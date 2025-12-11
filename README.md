@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maxime!
 
-Welcome to my GitHub! I'm a Data Science and Machine Learning student passionate about using AI to improve Education.
+Welcome to my GitHub! I'm a Data Sciencist passionate about using AI to improve Education.
 
 ## 🚀 About Me
 

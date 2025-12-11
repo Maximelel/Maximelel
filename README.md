@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a Data Science and Machine Learning student passionate
 
 ## 🚀 About Me
 
-- 🎓 Currently a Data science intern at Fab Inc
+- 🎓 Currently a Data sciencist at Fab AI
 
 ## 🛠️ Tech Stack
 

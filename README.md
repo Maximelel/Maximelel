@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Maxime!
 
-Welcome to my GitHub! I'm a Data Sciencist passionate about using AI to improve Education.
+Welcome to my GitHub! I'm a Data Scientist passionate about using AI to improve Education.
 
 ## 🚀 About Me
 
-- 🎓 Currently a Data sciencist at Fab AI
+- 🎓 Currently a Data Scientist at Fab AI
 
 ## 🛠️ Tech Stack
 
